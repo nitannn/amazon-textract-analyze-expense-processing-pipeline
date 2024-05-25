@@ -28,9 +28,9 @@ Two ways you could deploy this solution
 ```
 cd amazon-textract-analyzeexpense
 
-python -m pip install --target=./ amazon-textract-response-parser
+python3 -m pip install --target=./ amazon-textract-response-parser
 
-python -m pip install --target=./ amazon-textract-prettyprinter
+python3 -m pip install --target=./ amazon-textract-prettyprinter
 ```
 3. Create lambda function deployment package (.zip) file
 ```

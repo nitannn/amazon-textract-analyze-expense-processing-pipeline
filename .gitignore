@@ -1,0 +1,13 @@
+# Ignore all files
+*
+
+# Except
+!.gitignore
+!helper
+!architecture.png
+!CODE_OF_CONDUCT.md
+!CONTRIBUTING.md
+!lambda_function.py
+!/LICENSE
+!README.md
+!template.yaml
